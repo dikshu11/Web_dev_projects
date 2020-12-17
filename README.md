@@ -12,6 +12,9 @@ This repository contain codes for Web Apps created.
 To run the code: claim [Alphavantage key](https://www.alphavantage.co/support/#api-key) from here and edit in [Config.js file](/StocksBee/src/apis/CONFIG.js)
 
 
+<br/><br/><br/>
+
+
 2. [Quizbee](/QuizBee): It is a simple web app that presents a quiz with five random questions out of 50 questions. It displays submitted answers, correct answers, total score, and play option on submitting the quiz.
     [Check out Video Demo here](/QuizBee/Quizbee.mp4) 
 
@@ -20,3 +23,12 @@ To run the code: claim [Alphavantage key](https://www.alphavantage.co/support/#a
 
     It displays submitted answers, correct answers, total score, and play option on submitting the quiz
     <img src="/QuizBee/solution.png" height="200">
+
+
+<br/><br/><br/>
+
+
+3. [To-do list](/todo-list): A simple web-app that allows user to add a new to-do task or view all the exisiting tasks. User can cross-off or delete item from the list. It uses local storage to maintain the list.
+
+    <img src="/todo-list/TodoApp.png" height="300"> 
+

@@ -1,0 +1,71 @@
+.todo {
+    display: flex;
+    position: center;
+    background-color: whitesmoke;
+    border: 1px solid black;
+    margin: 5px auto;
+    padding: 5px auto;
+    align-self: center;
+    width: 50%;
+    height: 10%;
+    scroll-behavior: smooth;
+}
+
+.todo button {
+    float: right;
+    padding: 1px;
+    margin: 10px ;
+    border: 1px;
+    background-color: red;
+    text-align: center;
+    width: 10%;
+}
+
+.todo input {
+    padding: 1px;
+    margin: 5px ;
+    border: 1px;
+    width: 10%;
+    height: 30px;
+}
+
+.todo p{
+    padding: 1px;
+    margin: 5px ;
+    border: 1px;
+    width: 80%;
+    height: 100%;
+    text-align: left;
+    font-family: "Times New Roman", Times, serif;
+    font-size: xx-large;
+}
+
+.todoForm {
+    margin: 5px auto;
+    height: 100px;
+    width: 80%;
+}
+
+.todoForm label{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-size: larger;
+}
+
+.todoForm input{
+    height: 50%;
+    padding: 2px;
+    width: 100%;
+    margin: 5px;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.todoForm button{
+    margin: 5px ;
+    border: 1px solid black;;
+    background-color: beige;
+    text-align: center;
+    width: 30%;
+    height: 30%;
+}
