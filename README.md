@@ -11,11 +11,11 @@ Note: Since Alphavantage provides only 5 API requests per minute for free, I hav
 2. [Quizbee](/QuizBee): It is a simple web app that presents a quiz with five random questions out of 50 questions. It displays submitted answers, correct answers, total score, and play option on submitting the quiz.
     [Check out Video Demo here](/QuizBee/Quizbee.mp4) 
 
-    On Selecting any option, color changes to red.
-    <img src="/QuizBee/quiz.png" height="100">
+    On Selecting any option, color changes to red.<br>
+    <img src="/QuizBee/quiz.png" height="200">
 
     It displays submitted answers, correct answers, total score, and play option on submitting the quiz
-    <img src="/QuizBee/solution.png" height="100">
+    <img src="/QuizBee/solution.png" height="200">
     <!-- ![On Submission](/QuizBee/solution.png) -->
 
     Setup:
