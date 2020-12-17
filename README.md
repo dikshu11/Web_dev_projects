@@ -6,10 +6,10 @@ This repository contain codes for Web Apps created.
 [Check out Video Demo here](/QuizBee/Quizbee.mp4) 
 
 On Selecting any option, color changes to red.
-![Quiz](/QuizBee/quiz.png =100x20)
+![Quiz](/QuizBee/quiz.png)
 
 It displays submitted answers, correct answers, total score, and play option on submitting the quiz
-![On Submission](/QuizBee/solution.png =100x20)
+![On Submission](/QuizBee/solution.png)
 
 Setup:
 ```
